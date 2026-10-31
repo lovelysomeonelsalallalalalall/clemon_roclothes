@@ -13,6 +13,7 @@ use partcacher to create tables for quicker morphs
 
 insert script into console, link directory of model.
 
+<img width="1840" height="1280" alt="217" src="https://github.com/user-attachments/assets/9112b559-a253-4e46-9c22-e318f83a4a85" />
 
 copy script into console, execute
 
